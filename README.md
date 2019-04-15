@@ -3,7 +3,7 @@
 
 Selamat datang di OmahTI Learning Center 2019
 bidang `Web-Design`.
-
+![alt text](https://olc.omahti.web.id/img/logoOLC.png)
 Terimakasih sudah mendaftar
 
 ________________________________________________________________________
