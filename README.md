@@ -9,7 +9,7 @@ bidang Web-Design
 #### Apa saja yg perlu disiapkan?
 #### Apa itu HTML, CSS, dan JS?
 #### Memulai Ngoding untuk membuat Web :
-##### i. Kode dasar pembuatan web
+##### 1. Kode dasar pembuatan web
 ```html
 <!DOCTYPE html>
 <html>
@@ -21,9 +21,14 @@ bidang Web-Design
 </body>
 </html>
 ```
-##### ii. Macam-macam penulisan text
-##### iii. Styling menggunakan CSS
-##### iv. Komponen web dasar (`div`) 
-##### v. Menggunakan `Flex` untuk mengatur `div`
+##### 2. Macam-macam penulisan text
+##### 3. Styling menggunakan CSS
+##### 4. Komponen web dasar (`div`) 
+##### 5. Menggunakan `Flex` untuk mengatur `div`
+##### 6. Membuat Link
+##### 7. Menghubungkan antar halaman
+##### 8. Memasukkan gambar
+##### 9. Memasang Google Font
+##### 
 #### Mengguanakan Framework (`Bootstrap`)
 #### Deploy ke github
