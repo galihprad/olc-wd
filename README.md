@@ -45,7 +45,7 @@ Text Editor adalah tempat kita untuk menulis codingan web. Ada banyak text edito
 Browser berfungsi sebagai tempat kita melihat hasil dari kodingan web kita. Banyak browser yang sering digunakan, antara lain Google Chrome, Edge, Mozilla, dll. Namun pada course OLC kali ini, direkomendasikan menggunakan `Google chrome`, karena memiliki beberapa fitur tambahan untuk mendevelop web. Google Chrome dapat didownload [disini](https://www.google.co.id/chrome/)
 	
 #### Apa itu HTML, CSS, dan JS?
-HTML, CSS, dan JS merupakana "bahan dasar" ketika kita akan memasak sebuah halaman web. Secara sederhana, HTML merupakan kodingan dasar untuk membuat struktur/komponen dari web kita. CSS digunakan untuk menghias web kita, misal mengganti warna, ukuran, background, font, dll. Sedangkan JS (JavaScript) digunakan untuk membuat animasi-animasi dalam web kita. Misal, ketika diklik akan bergerak, atau muncul ini, muncul itu... nah itulah fungsi dari JS. 
+HTML, CSS, dan JS merupakan "bahan dasar" ketika kita akan memasak sebuah halaman web. Secara sederhana, HTML merupakan kodingan dasar untuk membuat struktur/komponen dari web kita. CSS digunakan untuk menghias web kita, misal mengganti warna, ukuran, background, font, dll. Sedangkan JS (JavaScript) digunakan untuk membuat animasi-animasi dalam web kita. Misal, ketika diklik akan bergerak, atau muncul ini, muncul itu... nah itulah fungsi dari JS. 
 
 
 <!--
