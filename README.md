@@ -8,7 +8,7 @@ ________________________________________________________________________
 
 
 
-##  Daftar Materi
+###  Daftar Materi
 #### Intro
 ###### Apa itu Web Design
 ###### Apa saja yg perlu disiapkan?
@@ -59,3 +59,24 @@ HTML, CSS, dan JS merupakana "bahan dasar" ketika kita akan memasak sebuah halam
 </body>
 </html>
 ```
+Menambahkan meta
+```html
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+#### 2. Macam-macam penulisan text
+#### 3. Styling menggunakan CSS
+```html
+<link rel="stylesheet" type="text/css" href="style.css">
+```
+#### 4. Komponen web dasar (`div`) 
+#### 5. Menggunakan `Flex` untuk mengatur `div`
+
+#### 6. Membuat Link
+#### 7. Menghubungkan antar halaman
+#### 8. Memasukkan gambar
+#### 9. Memasang Google Font
+
+
+
