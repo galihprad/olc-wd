@@ -46,6 +46,7 @@ Browser berfungsi sebagai tempat kita melihat hasil dari kodingan web kita. Bany
 HTML, CSS, dan JS merupakana "bahan dasar" ketika kita akan memasak sebuah halaman web. Secara sederhana, HTML merupakan kodingan dasar untuk membuat struktur/komponen dari web kita. CSS digunakan untuk menghias web kita, misal mengganti warna, ukuran, background, font, dll. JS (JavaScript) digunakan untuk membuat animasi-animasid dalam web kita. Misal, ketika diklik akan bergerak, atau muncul ini, muncul itu... nah itulah fungsi dari JS. 
 
 ## Memulai Ngoding untuk membuat web
+> **Note**: Kodingan berikut hanyalah outline dari materi, untuk implementasi dan penjelasan lebih lanjut akan disampaikan di kelas
 #### 1. Kode dasar pembuatan web
 ```html
 <!DOCTYPE html>
