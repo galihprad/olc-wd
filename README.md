@@ -45,38 +45,7 @@ Browser berfungsi sebagai tempat kita melihat hasil dari kodingan web kita. Bany
 #### Apa itu HTML, CSS, dan JS?
 HTML, CSS, dan JS merupakana "bahan dasar" ketika kita akan memasak sebuah halaman web. Secara sederhana, HTML merupakan kodingan dasar untuk membuat struktur/komponen dari web kita. CSS digunakan untuk menghias web kita, misal mengganti warna, ukuran, background, font, dll. JS (JavaScript) digunakan untuk membuat animasi-animasid dalam web kita. Misal, ketika diklik akan bergerak, atau muncul ini, muncul itu... nah itulah fungsi dari JS. 
 
-## Memulai Ngoding untuk membuat web
-> **Note**: Kodingan berikut hanyalah outline dari materi, untuk implementasi dan penjelasan lebih lanjut akan disampaikan di kelas
-#### 1. Kode dasar pembuatan web
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
 
-</body>
-</html>
-```
-Menambahkan meta
-```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-```
-#### 2. Macam-macam penulisan text
-#### 3. Styling menggunakan CSS
-```html
-<link rel="stylesheet" type="text/css" href="style.css">
-```
-#### 4. Komponen web dasar (`div`) 
-#### 5. Menggunakan `Flex` untuk mengatur `div`
-
-#### 6. Membuat Link
-#### 7. Menghubungkan antar halaman
-#### 8. Memasukkan gambar
-#### 9. Memasang Google Font
 
 
 
