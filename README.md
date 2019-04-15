@@ -77,6 +77,7 @@ Menambahkan meta
 ```
 #### 4. Komponen web dasar (`div`) 
 #### 5. Menggunakan `Flex` untuk mengatur `div`
+Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com/Css/css3_flexbox.asp)
 #### 6. Membuat Link
 #### 7. Menghubungkan antar halaman
 #### 8. Memasukkan gambar
