@@ -5,22 +5,12 @@ Selamat datang di OmahTI Learning Center 2019
 bidang Web-Design
 
 ##  Daftar Materi
-#### Dasar-dasar Web Design
-#### Apa saja yg perlu disiapkan?
-#### Apa itu HTML, CSS, dan JS?
-#### Memulai Ngoding untuk membuat Web :
+### Intro
+##### Dasar-dasar Web Design
+##### Apa saja yg perlu disiapkan?
+##### Apa itu HTML, CSS, dan JS?
+### Memulai Ngoding untuk membuat Web :
 ##### 1. Kode dasar pembuatan web
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-
-</body>
-</html>
-```
 ##### 2. Macam-macam penulisan text
 ##### 3. Styling menggunakan CSS
 ##### 4. Komponen web dasar (`div`) 
@@ -32,3 +22,19 @@ bidang Web-Design
 ##### 
 #### Mengguanakan Framework (`Bootstrap`)
 #### Deploy ke github
+
+
+## Intro
+## Memulai Ngoding untuk membuat web
+#### 1. Kode dasar pembuatan web
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
