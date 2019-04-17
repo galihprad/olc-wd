@@ -25,7 +25,7 @@ ________________________________________________________________________
 ###### 7. Menghubungkan antar halaman
 ###### 8. Memasukkan gambar
 ###### 9. Memasang Google Font
-###### 
+###### 10. Memasang Icon
 #### Mengguanakan Framework (Bootstrap)
 #### Deploy ke github
 
