@@ -105,4 +105,5 @@ menghubungkan ke caa
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
+memposisikan flex
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
