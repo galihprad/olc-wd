@@ -13,7 +13,7 @@ ________________________________________________________________________
 ###### Apa itu Web Design
 ###### Apa saja yg perlu disiapkan?
 ###### Apa itu HTML, CSS, dan JS?
-#### Materi:
+#### Materi (akan dibahas di kelas):
 ###### 1. Kode dasar pembuatan web
 ###### 2. Macam-macam penulisan text
 ###### 3. Styling menggunakan CSS
