@@ -101,4 +101,8 @@ kode meta
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
+menghubungkan ke caa
+```html
+<link rel="stylesheet" type="text/css" href="style.css">
+```
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
