@@ -84,4 +84,21 @@ Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com
 -->
 
 ## Week-1
+kode dasar
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
+kode meta
+```html
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
