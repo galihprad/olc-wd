@@ -82,3 +82,6 @@ Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com
 #### 9. Memasang Google Font
 
 -->
+
+## Week-1
+![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
