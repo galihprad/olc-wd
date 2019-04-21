@@ -46,6 +46,7 @@ Browser berfungsi sebagai tempat kita melihat hasil dari kodingan web kita. Bany
 HTML, CSS, dan JS merupakan "bahan dasar" ketika kita akan memasak sebuah halaman web. Secara sederhana, HTML merupakan kodingan dasar untuk membuat struktur/komponen dari web kita. CSS digunakan untuk menghias web kita, misal mengganti warna, ukuran, background, font, dll. Sedangkan JS (JavaScript) digunakan untuk membuat animasi-animasi dalam web kita. Misal, ketika diklik akan bergerak, atau muncul ini, muncul itu... nah itulah fungsi dari JS. 
 
 
+
 <!--
 
 ## Memulai Ngoding untuk membuat web
@@ -82,7 +83,7 @@ Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com
 #### 9. Memasang Google Font
 
 -->
-
+<--
 ## Week-1
 kode dasar
 ```html
@@ -107,3 +108,5 @@ menghubungkan ke caa
 ```
 memposisikan flex
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
+
+-->
