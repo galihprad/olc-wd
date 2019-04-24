@@ -71,7 +71,7 @@ Menambahkan meta
 
 ```
 -->
-#### 2. Macam-macam penulisan text
+#### Macam-macam penulisan text
 ```html
 <h1>Text</h1>
 <h2>Text</h2>
