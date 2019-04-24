@@ -47,10 +47,10 @@ HTML, CSS, dan JS merupakan "bahan dasar" ketika kita akan memasak sebuah halama
 
 
 
-<!--
+
 
 ## Memulai Ngoding untuk membuat web
-> **Note**: Kodingan berikut hanyalah outline dari materi, untuk implementasi dan penjelasan lebih lanjut akan disampaikan di kelas
+<!-- > **Note**: Kodingan berikut hanyalah outline dari materi, untuk implementasi dan penjelasan lebih lanjut akan disampaikan di kelas -->
 #### 1. Kode dasar pembuatan web
 ```html
 <!DOCTYPE html>
@@ -63,13 +63,23 @@ HTML, CSS, dan JS merupakan "bahan dasar" ketika kita akan memasak sebuah halama
 </body>
 </html>
 ```
+<!--
 Menambahkan meta
 ```html
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ```
+-->
 #### 2. Macam-macam penulisan text
+```html
+<h1>Text</h1>
+<h2>Text</h2>
+<h3>Text</h3>
+<h4>Text</h4>
+<h5>Text</h5>
+<h6>Text</h6>
+```
 #### 3. Styling menggunakan CSS
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
@@ -109,4 +119,3 @@ menghubungkan ke caa
 memposisikan flex
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
 
--->
