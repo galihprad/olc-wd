@@ -51,7 +51,7 @@ HTML, CSS, dan JS merupakan "bahan dasar" ketika kita akan memasak sebuah halama
 
 ## Memulai Ngoding untuk membuat web
 <!-- > **Note**: Kodingan berikut hanyalah outline dari materi, untuk implementasi dan penjelasan lebih lanjut akan disampaikan di kelas -->
-#### 1. Kode dasar pembuatan web
+####  Kode dasar pembuatan web
 ```html
 <!DOCTYPE html>
 <html>
@@ -80,19 +80,21 @@ Menambahkan meta
 <h5>Text</h5>
 <h6>Text</h6>
 ```
-#### 3. Styling menggunakan CSS
+####  Styling menggunakan CSS
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
-#### 4. Komponen web dasar (`div`) 
-#### 5. Menggunakan `Flex` untuk mengatur `div`
+
+####  Menggunakan `Flex` untuk mengatur `div`
+![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
 Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com/Css/css3_flexbox.asp)
+<!--
 #### 6. Membuat Link
 #### 7. Menghubungkan antar halaman
 #### 8. Memasukkan gambar
 #### 9. Memasang Google Font
-
 -->
+
 <!--
 ## Week-1
 kode dasar
