@@ -88,6 +88,9 @@ Menambahkan meta
 ####  Menggunakan `Flex` untuk mengatur `div`
 ![alt-text](https://github.com/galihprad/olc-wd/blob/master/flex.png)
 Tentang `flex` dapat dipelajarai lebih lanjut [disini](https://www.w3schools.com/Css/css3_flexbox.asp)
+
+#### Kodingan Minggu-1
+untuk kode yang dibuat pada minggu pertama dapat didownload [disini](https://drive.google.com/open?id=1MmbaEgntiZkshDSds7ChKau9-bIgzCAj)
 <!--
 #### 6. Membuat Link
 #### 7. Menghubungkan antar halaman
