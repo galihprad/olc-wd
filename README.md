@@ -94,6 +94,10 @@ untuk kode yang dibuat pada minggu pertama dapat didownload [disini](https://dri
 
 #### Kodingan Minggu-2
 untuk kode yang dibuat pada minggu kedua dapat didownload [disini](https://drive.google.com/drive/folders/1xR6q6FRRVcXR6PG3_68xjN40gAAxXdXk?usp=sharing)
+
+### Kodingan Mingu-3
+untuk kode yang dibuat pada minggu ketiga dapat didownload
+[disini](https://drive.google.com/drive/folders/1IFN__LfURlk31KCgimYmQ6qzOlUVL_nD?usp=sharing)
 <!--
 #### 6. Membuat Link
 #### 7. Menghubungkan antar halaman
